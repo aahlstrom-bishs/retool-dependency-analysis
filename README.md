@@ -6,7 +6,6 @@ chmod +x execute.sh
 
 ## windows
 ```
-Set-ItemProperty -Path ./execute.sh -Name IsReadOnly -Value $false
-.\execute.sh
+.\execute.ps1
 ```
 
