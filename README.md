@@ -1,2 +1,12 @@
-# retool-dependency-analysis
-python scripts for graphing and analyzing dependencies for components, queries, and function logic
+## linux
+```
+chmod +x execute.sh
+./execute.sh
+```
+
+## windows
+```
+Set-ItemProperty -Path ./execute.sh -Name IsReadOnly -Value $false
+.\execute.sh
+```
+
