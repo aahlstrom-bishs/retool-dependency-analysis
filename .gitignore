@@ -1,3 +1,12 @@
+queries.md
+
+
+code/inputs/*
+code/intermediate_outputs/
+**/__pycache_/
+outputs/*
+
+
 *.py
 *.json
 *.dot
