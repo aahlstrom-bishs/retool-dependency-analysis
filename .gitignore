@@ -1,6 +1,10 @@
 outputs/*
 outputs/**/*
 
+*.py
+*.json
+*.dot
+
 code/debug_files/*
 code/debug_files/**/*
 
@@ -10,6 +14,7 @@ code/inputs/**/*
 code/intermediate_outputs/*
 code/intermediate_outputs/**/*
 
+**/__pycache_/
 **/__pycache__/*
 
 queries.md
